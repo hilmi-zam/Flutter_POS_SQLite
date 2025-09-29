@@ -1,0 +1,8 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: 2.3.3  # Untuk integrasi SQLite
+  path: 1.9.0     # Untuk mendapatkan path database
+  intl: 0.19.0    # Untuk formatting (misalnya tanggal/mata uang)
+  crypto: 3.0.3   # (Diperlukan untuk Tugas Praktikum No. 1: Hashing Password)
+  # ... dependensi lainnya jika ada
